@@ -23,6 +23,6 @@ Built with purpose. Shared with the world.
 
 ---
 
-**Open Source · Systems Engineering · Infrastructure · Performance**
+**System Ecosystem for Minimal Infrastructure** - **SEMI**
 
 https://github.com/semi-system
